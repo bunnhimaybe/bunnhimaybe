@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+</div>
 
 <!--
 **bunnhimaybe/bunnhimaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WgncljJskOk6SsyiRz/giphy.gif" width="100"/>
+</div>
 -->
