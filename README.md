@@ -28,8 +28,6 @@ _**extracurriculars ...**_
 <ul>
   <li>reestablishing the Association for Computing Machinery at UNO with ACM-Women's chapter 
 </ul>
->>>>>>> Stashed changes
-
 <!--
 **bunnhimaybe/bunnhimaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
