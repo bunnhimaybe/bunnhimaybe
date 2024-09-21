@@ -1,8 +1,8 @@
 <a target="_blank" align="center">
   <img align="right" top="500" width="300" alt="GIF" 
-    src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a>  
+    src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a>
 
-### it's me, bunnhi!
+<h3> it's me, bunnhi!</h3>
 
 _**about me ...**_
 <ul>
