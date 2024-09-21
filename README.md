@@ -2,7 +2,7 @@
   <img align="right" top="500" width="300" alt="GIF" 
     src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a>
 
-<h3> it's me, bunnhi!</h3>
+<h3>nhi is <em>bunnhimaybe</em></h3>
 
 _**about me ...**_
 <ul>
@@ -15,18 +15,19 @@ _**about me ...**_
 _**works in progress ...**_
 <ul>
   <li>attending the <em>Grace Hopper Celebration 2024</em> !
-  <li><em>Melty Face :: </em> research project to improve children's emotional intelligence with a game using AI; presenting at InnovateUNO; competing in StartUp UNO (Nov 2024)
-</ul>
-
-_**coursework ...**_
-<ul>
-  <li>a fashion-themed time management game
-  <li>team projects for the UNO CS department; motion-detecting information kiosks; technical workshops for software engineering
+  <li><em>Melty Face ~ </em> team research project to improve children's emotional intelligence with a game using AI (to be published); <br>
+  presenting at <em>InnovateUNO</em> research symposium (Nov 2024); <br>
+  competing in <em>StartUp UNO</em> pitch competition (Nov 2024)
+  <li><em>Game Development I ~ </em>a fashion-themed time management game
+  <li><em>Software Engineering I ~ </em>team projects for the UNO CS department; <br>
+  motion-detecting information kiosks; designing  technical workshops
 </ul>
 
 _**extracurriculars ...**_
 <ul>
-  <li>reestablishing the Association for Computing Machinery at UNO with ACM-Women's chapter 
+  <li>Association for Computing Machinery (Secretary)
+  <li>Association for Computing MAchinery - Women's Chapter (Secretary)
+  <li>International Game Developers' Association
 </ul>
 <!--
 **bunnhimaybe/bunnhimaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
