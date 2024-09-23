@@ -6,7 +6,8 @@
 
 _**about me ...**_
 <ul>
-  <li>an artist! interested in (UX) design and full stack dev
+  <li>an artist! 
+  <li> interested in (UX) design and full stack dev
   <li>a singer and (ex-) drummer
   <li>playing Death Stranding
   <li> Sagittarius sun, Pisces moon, Aquarius rising
