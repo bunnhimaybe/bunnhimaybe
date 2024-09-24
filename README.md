@@ -6,10 +6,10 @@
 
 _**about me ...**_
 <ul>
-  <li>an artist! 
+  <li> an artist! 
   <li> interested in (UX) design and full stack dev
-  <li>a singer and (ex-) drummer
-  <li>playing Death Stranding
+  <li> a singer and (ex-) drummer
+  <li> playing Death Stranding
   <li> Sagittarius sun, Pisces moon, Aquarius rising
 </ul>
 
@@ -27,7 +27,7 @@ _**works in progress ...**_
 _**extracurriculars ...**_
 <ul>
   <li>Association for Computing Machinery (Secretary)
-  <li>Association for Computing MAchinery - Women's Chapter (Secretary)
+  <li>Association for Computing Machinery - Women's Chapter (Secretary)
   <li>International Game Developers' Association
 </ul>
 <!--
