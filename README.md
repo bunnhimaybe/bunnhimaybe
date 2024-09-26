@@ -7,6 +7,7 @@
 _**about me ...**_
 <ul>
   <li> interested in (UX) design and full stack dev
+  <li> expecting to graduate in Fall 2025
   <li> playing Death Stranding
   <li> Sagittarius sun, Pisces moon, Aquarius rising
   <li> an artist & singer!
@@ -22,6 +23,7 @@ _**works in progress ...**_
   <li><em>Game Development I ~ </em>a fashion-themed time management game
   <li><em>Software Engineering I ~ </em>team projects for the UNO CS department; <br>
   motion-detecting information kiosks; designing  technical workshops
+  <li> preparing for <em>International Collegiate Programming Contest 2025</em>
 </ul>
 
 _**extracurriculars ...**_
