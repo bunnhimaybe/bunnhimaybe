@@ -23,11 +23,11 @@ _**works in progress ...**_
   <li><em>Game Development I ~ </em>a fashion-themed time management game
   <li><em>Software Engineering I ~ </em>team projects for the UNO CS department; <br>
   motion-detecting information kiosks; designing  technical workshops
+</ul>
 
 _**extracurriculars ...**_
 <ul>
   <li> International Collegiate Programming Contest (preparing for ICPC 2025)
-</ul>
   <li>Association for Computing Machinery (Secretary)
   <li>Association for Computing Machinery - Women's Chapter (Secretary)
   <li>International Game Developers' Association
