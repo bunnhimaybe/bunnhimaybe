@@ -6,9 +6,8 @@
 
 _**about me ...**_
 <ul>
-  <li> an artist! 
+  <li> an artist & singer!
   <li> interested in (UX) design and full stack dev
-  <li> a singer and (ex-) drummer
   <li> playing Death Stranding
   <li> Sagittarius sun, Pisces moon, Aquarius rising
   <li> muốn học tiếng Nhật hahaha
