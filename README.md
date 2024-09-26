@@ -11,8 +11,7 @@ _**about me ...**_
   <li> a singer and (ex-) drummer
   <li> playing Death Stranding
   <li> Sagittarius sun, Pisces moon, Aquarius rising
-
-  <lí> muốn học tiếng Nhật hahaha
+  <li> muốn học tiếng Nhật hahaha
 </ul>
 
 _**works in progress ...**_
