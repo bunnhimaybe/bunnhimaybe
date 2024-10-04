@@ -12,16 +12,16 @@ _**about me ...**_
   <li> Sagittarius sun, Pisces moon, Aquarius rising
   <li> an artist & singer!
   <li> muốn học tiếng Nhật hahaha
-</ul>
+</ul> 
 
 _**works in progress ...**_
 <ul>
   <li>attending the <em>Grace Hopper Celebration 2024</em> !
-  <li><em>[Humans, AI, and Machines Lab (HAIM)](https://github.com/HAIM-LAB)</em> ~ team research project to improve children's emotional intelligence with a game using artificial intelligence; <br>
+  <li>Humans, AI, and Machines Lab [HAIM](https://github.com/HAIM-LAB) ~ team research project to improve children's emotional intelligence with a game using artificial intelligence; <br>
   presenting at <em>InnovateUNO</em> research symposium (Nov 2024); competing in <em>StartUp UNO</em> pitch competition (Nov 2024)
   <li><em>Game Development I ~ </em>a fashion-themed time management game
   <li><em>Software Engineering I ~ </em>team projects for the UNO CS department including motion-detecting information kiosks using Leap Motion technology and designing information technology workshops
-  <li>learning Linux
+  <li>learning Linux, Javascript, and CSS
 </ul>
 
 _**extracurriculars ...**_
