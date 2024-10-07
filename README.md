@@ -7,27 +7,6 @@
   </ul>
 </div>
 
-<h3><em>tech stack ...</em></h3>
-<div>
-  <img alt="windows" src="https://skillicons.dev/icons?i=windows">
-  <img alt="C" src="https://skillicons.dev/icons?i=c">
-  <img alt="C++" src="https://skillicons.dev/icons?i=cpp">
-  <img alt="C#" src="https://skillicons.dev/icons?i=cs">
-  <img alt="Ubuntu Linux" src="https://skillicons.dev/icons?i=ubuntu">
-  <br>
-  <img alt="Java" src="https://skillicons.dev/icons?i=java">
-  <img alt="HTML" src="https://skillicons.dev/icons?i=html">
-  <img alt="CSS" src="https://skillicons.dev/icons?i=css">
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
-  <img alt="Python" src="https://skillicons.dev/icons?i=py">
-  <br>
-  <img alt="GameMaker" src="https://skillicons.dev/icons?i=gamemakerstudio">
-  <img alt="Photoshop" src="https://skillicons.dev/icons?i=ps">
-  <img alt="Premiere Pro" src="https://skillicons.dev/icons?i=pr">
-  <img alt="Adobe Illustrator" src="https://skillicons.dev/icons?i=ai">
-  <img alt="Unity" src="https://skillicons.dev/icons?i=unity">
-</div>
-
 <h3><em>about me ...</em></h3>
 <ul>
   <li> interested in software/web/game development, 
@@ -54,6 +33,13 @@
   <li>Association for Computing Machinery - Women's Chapter (Secretary)
   <li>International Game Developers' Association
 </ul>
+
+<h3><em>tech stack ...</em></h3>
+<div style="display: flex; align-items: center; justify-content: center; vertical-align: middle;">
+  <p align="center"> &star; <img src="https://skillicons.dev/icons?i=windows,ubuntu,java"> &star; <img src="https://skillicons.dev/icons?i=html,css,js"> &star; <img src="https://skillicons.dev/icons?i=c,cpp,cs"> &star;
+    <img src="https://skillicons.dev/icons?i=py,gamemakerstudio,unity"> &star; <img src="https://skillicons.dev/icons?i=ps,pr,ai"> &star;
+  </p>
+</div>
 
 <!--
 **bunnhimaybe/bunnhimaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
