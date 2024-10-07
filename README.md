@@ -1,30 +1,4 @@
-<div style="flex; float: right;" align="right">
-  <img src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif" alt="GIF" width="300">
-  <div style="text-align: center;" align="right">
-    <h3><em>tech stack ... </em></h3>
-  </div>
-  <div style="display: flex; flex-direction: row; justify-content: center;">
-    <img alt="windows" src="https://skillicons.dev/icons?i=windows">
-    <img alt="C" src="https://skillicons.dev/icons?i=c">
-    <img alt="C++" src="https://skillicons.dev/icons?i=cpp">
-    <img alt="C#" src="https://skillicons.dev/icons?i=cs">
-    <img alt="Ubuntu Linux" src="https://skillicons.dev/icons?i=ubuntu">
-  </div>
-  <div style="display: flex; flex-direction: row; justify-content: center;">
-    <img alt="Java" src="https://skillicons.dev/icons?i=java">
-    <img alt="HTML" src="https://skillicons.dev/icons?i=html">
-    <img alt="CSS" src="https://skillicons.dev/icons?i=css">
-    <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
-    <img alt="Python" src="https://skillicons.dev/icons?i=py">
-  </div>
-  <div style="display: flex; flex-direction: row; justify-content: center;">
-    <img alt="GameMaker" src="https://skillicons.dev/icons?i=gamemakerstudio">
-    <img alt="Photoshop" src="https://skillicons.dev/icons?i=ps">
-    <img alt="Premiere Pro" src="https://skillicons.dev/icons?i=pr">
-    <img alt="Adobe Illustrator" src="https://skillicons.dev/icons?i=ai">
-    <img alt="Unity" src="https://skillicons.dev/icons?i=unity">
-  </div>
-</div>
+<img align="right" top="500" width="300" alt="GIF" src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif" alt="GIF" width="300">
 
 <h2>nhi is <em>bunnhimaybe</em></h2>
 
@@ -53,6 +27,27 @@
   <li>Association for Computing Machinery - Women's Chapter (Secretary)
   <li>International Game Developers' Association
 </ul>
+
+<h3><em>tech stack ...</em></h3>
+<div>
+  <img alt="windows" src="https://skillicons.dev/icons?i=windows">
+  <img alt="C" src="https://skillicons.dev/icons?i=c">
+  <img alt="C++" src="https://skillicons.dev/icons?i=cpp">
+  <img alt="C#" src="https://skillicons.dev/icons?i=cs">
+  <img alt="Ubuntu Linux" src="https://skillicons.dev/icons?i=ubuntu">
+  <br>
+  <img alt="Java" src="https://skillicons.dev/icons?i=java">
+  <img alt="HTML" src="https://skillicons.dev/icons?i=html">
+  <img alt="CSS" src="https://skillicons.dev/icons?i=css">
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
+  <img alt="Python" src="https://skillicons.dev/icons?i=py">
+  <br>
+  <img alt="GameMaker" src="https://skillicons.dev/icons?i=gamemakerstudio">
+  <img alt="Photoshop" src="https://skillicons.dev/icons?i=ps">
+  <img alt="Premiere Pro" src="https://skillicons.dev/icons?i=pr">
+  <img alt="Adobe Illustrator" src="https://skillicons.dev/icons?i=ai">
+  <img alt="Unity" src="https://skillicons.dev/icons?i=unity">
+</div>
 
 <!--
 **bunnhimaybe/bunnhimaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
