@@ -1,6 +1,49 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" width="300" alt="GIF" 
-    src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a>
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<div style="float: right;" class="image-container">
+  <img src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif" alt="GIF" width="300">
+  
+  <div style="float:; text-align: center;">
+    <h5><em>tech stack ...</em</h5>
+  </div>
+  
+  <div style="display: flex; flex-direction: row; justify-content: center;">
+    <img alt="windows" src="https://skillicons.dev/icons?i=windows">
+    <img alt="C" src="https://skillicons.dev/icons?i=c">
+    <img alt="C++" src="https://skillicons.dev/icons?i=cpp">
+    <img alt="C#" src="https://skillicons.dev/icons?i=cs">
+    <img alt="Ubuntu Linux" src="https://skillicons.dev/icons?i=ubuntu">
+  </div>
+  
+  <div style="display: flex; flex-direction: row; justify-content: center;">
+    <img alt="Java" src="https://skillicons.dev/icons?i=java">
+    <img alt="HTML" src="https://skillicons.dev/icons?i=html">
+    <img alt="CSS" src="https://skillicons.dev/icons?i=css">
+    <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
+    <img alt="Python" src="https://skillicons.dev/icons?i=py">
+  </div>
+  
+  <div style="display: flex; flex-direction: row; justify-content: center;">
+    <img alt="GameMaker" src="https://skillicons.dev/icons?i=gamemakerstudio">
+    <img alt="Photoshop" src="https://skillicons.dev/icons?i=ps">
+    <img alt="Premiere Pro" src="https://skillicons.dev/icons?i=pr">
+    <img alt="Adobe Illustrator" src="https://skillicons.dev/icons?i=ai">
+    <img alt="Unity" src="https://skillicons.dev/icons?i=unity">
+  </div>
+  <style>
+  .image-container img {
+    display: block;
+    margin-top: auto;
+  }
+  .image-container:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+  </style>
+</div>
 
 <h3>nhi is <em>bunnhimaybe</em></h3>
 
@@ -29,23 +72,6 @@ _**extracurriculars ...**_
   <li>Association for Computing Machinery - Women's Chapter (Secretary)
   <li>International Game Developers' Association
 </ul>
-
-_**tech stack ...**_
-[![After Effects](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![After Effects](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![After Effects](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![After Effects](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![After Effects](https://skillicons.dev/icons?i=gamemakerstudio)](https://skillicons.dev)
-[![After Effects](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![After Effects](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![After Effects](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
-[![Adobe Premiere Pro](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
-[![Adobe Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
-[![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-[![After Effects](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-
 
 <!--
 **bunnhimaybe/bunnhimaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
