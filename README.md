@@ -6,10 +6,9 @@
 
 _**about me ...**_
 <ul>
-  <li> interested in (UX) design and full stack dev
+  <li> interested in software/web/game development, UX/UI Design, 2D & 3D digital art, and animation! 
   <li> expecting to graduate in Fall 2025
   <li> playing Death Stranding
-  <li> Sagittarius sun, Pisces moon, Aquarius rising
   <li> an artist & singer!
   <li> muốn học tiếng Nhật hahaha
 </ul> 
