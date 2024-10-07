@@ -12,7 +12,7 @@
   <li> interested in software/web/game development, 
     <br>UX/UI Design, 2D & 3D digital art, and animation! 
   <li> expecting to graduate in Fall 2025
-  <li> playing Death Stranding
+  <li> playing <em>Death Stranding</em>
   <li> an artist & singer!
   <li> muốn học tiếng Nhật hahaha
 </ul> 
@@ -23,7 +23,7 @@
   <li><em>Humans, AI, and Machines Lab <a href="https://github.com/HAIM-LAB">(HAIM)</a></em> ~ team research project to improve children's emotional intelligence with a game using artificial intelligence; presenting at <b>InnovateUNO</b> research symposium (Nov 2024); competing in <b>StartUp UNO</b> pitch competition (Nov 2024)
   <li><em>Game Development I ~ </em>a fashion-themed time management game
   <li><a href="https://github.com/4210-Capstones"><em>Software Engineering I</em></a> ~ designing information technology workshops; developing motion-detecting information kiosks using Leap Motion technology (class capstone project)
-  <li>learning Ubuntu Linux, Javascript, and CSS
+  <li>learning Ubuntu Linux, HTML, Javascript, and CSS
 </ul>
 
 <h3><em>extracurriculars ...</em></h3>
