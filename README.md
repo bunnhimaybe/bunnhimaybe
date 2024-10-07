@@ -2,14 +2,14 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 
-<div style="float: right;" class="image-container">
+<div class="image-container">
   <img src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif" alt="GIF" width="300">
-  
-  <div style="float:; text-align: center;">
-    <h5><em>tech stack ...</em</h5>
+
+  <div class="heading-container">
+    <h5><em>tech stack ...</em></h5>
   </div>
-  
-  <div style="display: flex; flex-direction: row; justify-content: center;">
+    
+  <div class="tech-stack-icons">
     <img alt="windows" src="https://skillicons.dev/icons?i=windows">
     <img alt="C" src="https://skillicons.dev/icons?i=c">
     <img alt="C++" src="https://skillicons.dev/icons?i=cpp">
@@ -17,7 +17,7 @@
     <img alt="Ubuntu Linux" src="https://skillicons.dev/icons?i=ubuntu">
   </div>
   
-  <div style="display: flex; flex-direction: row; justify-content: center;">
+  <div class="tech-stack-icons">
     <img alt="Java" src="https://skillicons.dev/icons?i=java">
     <img alt="HTML" src="https://skillicons.dev/icons?i=html">
     <img alt="CSS" src="https://skillicons.dev/icons?i=css">
@@ -25,24 +25,13 @@
     <img alt="Python" src="https://skillicons.dev/icons?i=py">
   </div>
   
-  <div style="display: flex; flex-direction: row; justify-content: center;">
+  <div class="tech-stack-icons">
     <img alt="GameMaker" src="https://skillicons.dev/icons?i=gamemakerstudio">
     <img alt="Photoshop" src="https://skillicons.dev/icons?i=ps">
     <img alt="Premiere Pro" src="https://skillicons.dev/icons?i=pr">
     <img alt="Adobe Illustrator" src="https://skillicons.dev/icons?i=ai">
     <img alt="Unity" src="https://skillicons.dev/icons?i=unity">
   </div>
-  <style>
-  .image-container img {
-    display: block;
-    margin-top: auto;
-  }
-  .image-container:after {
-      content: "";
-      display: table;
-      clear: both;
-  }
-  </style>
 </div>
 
 <h3>nhi is <em>bunnhimaybe</em></h3>
