@@ -36,8 +36,8 @@
 
 <h3><em>tech stack ...</em></h3>
 <div style="display: flex; align-items: center; justify-content: center; vertical-align: middle;">
-  <p align="center"> &star; <img src="https://skillicons.dev/icons?i=windows,ubuntu,java"> &star; <img src="https://skillicons.dev/icons?i=html,css,js"> &star; <img src="https://skillicons.dev/icons?i=c,cpp,cs"> &star;
-    <img src="https://skillicons.dev/icons?i=py,gamemakerstudio,unity"> &star; <img src="https://skillicons.dev/icons?i=ps,pr,ai"> &star;
+  <p align="center"> &star; <img src="https://skillicons.dev/icons?i=windows,ubuntu,java"> &star; <img src="https://skillicons.dev/icons?i=html,css,js"> &star; <img src="https://skillicons.dev/icons?i=c,cpp,cs"> &star; <br>
+    &star; <img src="https://skillicons.dev/icons?i=py,gamemakerstudio,unity"> &star; <img src="https://skillicons.dev/icons?i=ps,pr,ai"> &star;
   </p>
 </div>
 
