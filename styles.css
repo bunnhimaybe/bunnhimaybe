@@ -18,3 +18,9 @@
   display: table;
   clear: both;
 }
+
+.tech-stack-icons img {
+  width: 30px; /* Adjust the width as needed */
+  height: 30px; /* Adjust the height as needed */
+  margin: 5px; /* Adjust the margin as needed */
+}
