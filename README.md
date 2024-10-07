@@ -29,6 +29,24 @@ _**extracurriculars ...**_
   <li>Association for Computing Machinery - Women's Chapter (Secretary)
   <li>International Game Developers' Association
 </ul>
+
+_**tech stack ...**_
+[![After Effects](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![After Effects](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![After Effects](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![After Effects](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![After Effects](https://skillicons.dev/icons?i=gamemakerstudio)](https://skillicons.dev)
+[![After Effects](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![After Effects](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![After Effects](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![Adobe Premiere Pro](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+[![Adobe Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+[![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+[![After Effects](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
+
 <!--
 **bunnhimaybe/bunnhimaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
