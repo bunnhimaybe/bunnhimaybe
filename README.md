@@ -1,7 +1,7 @@
-<div style="float: right;">
+<div style="flex; float: right;" align="right">
   <img src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif" alt="GIF" width="300">
-  <div style="display: flex; flex-direction: row; justify-content: center;">
-    <h3><em>tech stack ...</em></h3>
+  <div style="text-align: center;" align="right">
+    <h3><em>tech stack ... </em></h3>
   </div>
   <div style="display: flex; flex-direction: row; justify-content: center;">
     <img alt="windows" src="https://skillicons.dev/icons?i=windows">
