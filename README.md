@@ -7,32 +7,6 @@
   </ul>
 </div>
 
-<h3><em>about me ...</em></h3>
-<ul>
-  <li> interested in software/web/game development, UX/UI Design, 2D & 3D digital art, and animation! 
-  <li> expecting to graduate in Fall 2025
-  <li> playing Death Stranding
-  <li> an artist & singer!
-  <li> muốn học tiếng Nhật hahaha
-</ul> 
-
-<h3><em>works in progress ...</em></h3>
-<ul>
-  <li>attending the <em>Grace Hopper Celebration 2024</em> !
-  <li><em>Humans, AI, and Machines Lab <a href="https://github.com/HAIM-LAB">(HAIM)</a></em> ~ team research project to improve children's emotional intelligence with a game using artificial intelligence; presenting at <b>InnovateUNO</b> research symposium (Nov 2024); competing in <b>StartUp UNO</b> pitch competition (Nov 2024)
-  <li><em>Game Development I ~ </em>a fashion-themed time management game
-  <li><em>Software Engineering I ~ </em>team projects for the UNO CS department including motion-detecting information kiosks using Leap Motion technology and designing information technology workshops
-  <li>learning Linux, Javascript, and CSS
-</ul>
-
-<h3><em>extracurriculars ...</em></h3>
-<ul>
-  <li> International Collegiate Programming Contest (preparing for ICPC 2025)
-  <li>Association for Computing Machinery (Secretary)
-  <li>Association for Computing Machinery - Women's Chapter (Secretary)
-  <li>International Game Developers' Association
-</ul>
-
 <h3><em>tech stack ...</em></h3>
 <div>
   <img alt="windows" src="https://skillicons.dev/icons?i=windows">
@@ -53,6 +27,33 @@
   <img alt="Adobe Illustrator" src="https://skillicons.dev/icons?i=ai">
   <img alt="Unity" src="https://skillicons.dev/icons?i=unity">
 </div>
+
+<h3><em>about me ...</em></h3>
+<ul>
+  <li> interested in software/web/game development, 
+    <br>UX/UI Design, 2D & 3D digital art, and animation! 
+  <li> expecting to graduate in Fall 2025
+  <li> playing Death Stranding
+  <li> an artist & singer!
+  <li> muốn học tiếng Nhật hahaha
+</ul> 
+
+<h3><em>works in progress ...</em></h3>
+<ul>
+  <li>attending the <em>Grace Hopper Celebration 2024</em> !
+  <li><em>Humans, AI, and Machines Lab <a href="https://github.com/HAIM-LAB">(HAIM)</a></em> ~ team research project to improve children's emotional intelligence with a game using artificial intelligence; presenting at <b>InnovateUNO</b> research symposium (Nov 2024); competing in <b>StartUp UNO</b> pitch competition (Nov 2024)
+  <li><em>Game Development I ~ </em>a fashion-themed time management game
+  <li><a href="https://github.com/4210-Capstones"><em>Software Engineering I</em></a> ~ designing information technology workshops; developing motion-detecting information kiosks using Leap Motion technology (class capstone project)
+  <li>learning Ubuntu Linux, Javascript, and CSS
+</ul>
+
+<h3><em>extracurriculars ...</em></h3>
+<ul>
+  <li> International Collegiate Programming Contest (preparing for ICPC 2025)
+  <li>Association for Computing Machinery (Secretary)
+  <li>Association for Computing Machinery - Women's Chapter (Secretary)
+  <li>International Game Developers' Association
+</ul>
 
 <!--
 **bunnhimaybe/bunnhimaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
