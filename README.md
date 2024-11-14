@@ -19,7 +19,7 @@
 
 <h3><em>works in progress ...</em></h3>
 <ul>
-  <li><em>World of Emotion ~ team research project to improve children's emotional intelligence with a classroom that uses AI to generate unique and personalized narrative experiences
+  <li><em>Camo Chameleon~ team research project to improve children's emotional intelligence with a classroom game that uses AI to generate unique and personalized narrative experiences
   <ul>
     <li>top 5 finalist competing in <b>StartUp UNO</b> pitch competition !!! (Nov 2024)</li>
     <li>oral and poster presentations at <b>InnovateUNO</b> research symposium (Nov 2024)</li>
