@@ -19,7 +19,7 @@
 
 <h3><em>works in progress ...</em></h3>
 <ul>
-  <li><em>Camo Chameleon ~ developing a children's social and emotional learning game that uses AI to generate unique and personalized narrative experiences
+  <li><em>Camo Chameleon</em> ~ developing a children's social and emotional learning game that uses AI to generate unique and personalized narrative experiences
   <ul>
     <li>first place in <b>StartUp UNO</b> pitch competition !!! (Nov 2024)</li>
     <li>Humans, AI, and Machines Lab <a href="https://github.com/HAIM-LAB">(HAIM)</a> project</li>
@@ -28,7 +28,7 @@
     <ul>
       <li>published <em>Top Shop</em> (a fashion-themed time management 2D game) on <a href="https://whoopsies.itch.io/top-shop">itch.io</a></li>
     </ul>
-  <li><a href="https://github.com/4210-Capstones"><em>Software Engineering I</em></a> ~ designing information technology workshops; developing motion-detecting information kiosks using Leap Motion technology (class capstone project)
+  <li><a href="https://github.com/4210-Capstones"><em>Software Engineering I</em></a> ~ designing information technology workshops; developing motion-detecting information kiosks using Leap Motion SDK (class capstone project)
   <li>learning Blender, Unity, JavaScript, CSS, and Python
 </ul>
 
