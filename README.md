@@ -19,14 +19,17 @@
 
 <h3><em>works in progress ...</em></h3>
 <ul>
-  <li><em>Camo Chameleon~ team research project to improve children's emotional intelligence with a classroom game that uses AI to generate unique and personalized narrative experiences
+  <li><em>Camo Chameleon ~ developing a children's social and emotional learning game that uses AI to generate unique and personalized narrative experiences
   <ul>
-    <li>top 5 finalist competing in <b>StartUp UNO</b> pitch competition !!! (Nov 2024)</li>
-    <li>oral and poster presentations at <b>InnovateUNO</b> research symposium (Nov 2024)</li>
+    <li>first place in <b>StartUp UNO</b> pitch competition !!! (Nov 2024)</li>
     <li>Humans, AI, and Machines Lab <a href="https://github.com/HAIM-LAB">(HAIM)</a> project</li>
-  <li><em>Game Development I ~ </em>a fashion-themed time management 2D game & a space-themed 3D puzzle platformer
+  </ul>
+  <li><a href="https://github.com/bunnhimaybe/4570_GameDevelopmentI"><em>Game Development I</a></em> ~ a space-themed 3D puzzle platformer
+    <ul>
+      <li>published <em>Top Shop</em> (a fashion-themed time management 2D game) on <a href="https://whoopsies.itch.io/top-shop">itch.io</a></li>
+    </ul>
   <li><a href="https://github.com/4210-Capstones"><em>Software Engineering I</em></a> ~ designing information technology workshops; developing motion-detecting information kiosks using Leap Motion technology (class capstone project)
-  <li>learning Blender, JavaScript and CSS
+  <li>learning Blender, Unity, JavaScript, CSS, and Python
 </ul>
 
 <h3><em>extracurriculars ...</em></h3>
@@ -40,7 +43,7 @@
 <h3 align="center"><em>tech stack ...</em></h3>
 <div style="display: flex; align-items: center; justify-content: center; vertical-align: middle;">
   <p align="center"> &star; <img src="https://skillicons.dev/icons?i=windows,ubuntu,java"> &star; <img src="https://skillicons.dev/icons?i=html,css,js"> &star; <img src="https://skillicons.dev/icons?i=c,cpp,cs"> &star; <br>
-    &star; <img src="https://skillicons.dev/icons?i=py,gamemakerstudio,unity"> &star; <img src="https://private-user-images.githubusercontent.com/26313645/336937064-69386b61-0c22-4514-b937-2cbbd55cb7db.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3OTg5MTAsIm5iZiI6MTczMDc5ODYxMCwicGF0aCI6Ii8yNjMxMzY0NS8zMzY5MzcwNjQtNjkzODZiNjEtMGMyMi00NTE0LWI5MzctMmNiYmQ1NWNiN2RiLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA1VDA5MjMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjOTBmNDA1ZGY1YTBiMTBiMGNjMjE3YzU5ZGVjYWFjM2FmYWU2MDkzZGRkNmVlMzU3YzJiNDkwYzcwM2QwZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZMeiWToOwl2UpK251xES5tvz8uSSKIzElFLJWF1Z4Tw" width="48"> <span style="padding-right: 20px;"> <img src="https://skillicons.dev/icons?i=blender,figma,obsidian"> &star; <img src="https://skillicons.dev/icons?i=ps,pr,ai"> &star;
+    &star; <img src="https://skillicons.dev/icons?i=blender,figma,obsidian"> &star; <img src="https://skillicons.dev/icons?i=ps,pr,ai"> &star;
   </p>
 </div>
 
