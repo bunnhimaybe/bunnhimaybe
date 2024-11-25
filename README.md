@@ -22,13 +22,14 @@
   <li><em>Camo Chameleon</em> ~ developing a children's social and emotional learning game that uses AI to generate unique and personalized narrative experiences
   <ul>
     <li>first place in <b>StartUp UNO</b> pitch competition !!! (Nov 2024)</li>
-    <li>Humans, AI, and Machines Lab <a href="https://github.com/HAIM-LAB">(HAIM)</a> project</li>
+    <li>a project of the Humans, AI, and Machines (HAIM) Lab <a href="https://github.com/HAIM-LAB"></a></li>
   </ul>
   <li><a href="https://github.com/bunnhimaybe/4570_GameDevelopmentI"><em>Game Development I</a></em> ~ a space-themed 3D puzzle platformer
     <ul>
       <li>published <em>Top Shop</em> (a fashion-themed time management 2D game) on <a href="https://whoopsies.itch.io/top-shop">itch.io</a></li>
+      <li>upcoming research with the Light Lab (Jan 2025)</li>
     </ul>
-  <li><a href="https://github.com/4210-Capstones"><em>Software Engineering I</em></a> ~ designing information technology workshops; developing motion-detecting information kiosks using Leap Motion SDK (class capstone project)
+  <li><a href="https://github.com/4210-Capstones"><em>Software Engineering I</em></a> ~ designing information technology workshops; developing motion-detecting information kiosks using Leap Motion SDK (class capstone project); project of the Software Agile Modeling & Prototyping (SWAMP) Lab
   <li>learning Blender, Unity, JavaScript, CSS, and Python
 </ul>
 
