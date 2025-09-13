@@ -23,8 +23,8 @@
   <li> người Việt; 日本語を勉強する
 </ul> 
 
-<h3><em> featured works in progress ... </em></h3>
-<b>academic research</b>
+<h3><em> featured works ... </em></h3>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>academic research</b>
 <ul>
   <li> <em> <a href="https://github.com/HAIM-LAB">HAIM Lab</a> (Humans, AI, and Machines) </em> </li>
   <ul>
@@ -39,7 +39,7 @@
     </ul>
   <li> <em><a href='https://light.cs.uno.edu/'>LIGHT Lab</a> (Laboratory of Artificial Intelligence, Games, and HCI Techniques)</em> ~ upcoming research </li>
 </ul>
-<b> games </b>
+&nbsp;&nbsp;&nbsp;&nbsp;<b> games </b>
 <ul>
   <li> <a href="https://whoopsies.itch.io/top-shop"> <em>Top Shop</em> </a> 
       ~ 2D fashion-themed time management game </li>
