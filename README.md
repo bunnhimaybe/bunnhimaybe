@@ -1,4 +1,4 @@
-<img align="right" top="500" width="300" alt="GIF" src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif" alt="GIF" width="300">
+<img align="right" top="500" width="300" alt="GIF" src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif">
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
@@ -7,33 +7,49 @@
   </ul>
 </div>
 
-<h3><em>about me ...</em></h3>
+<h3><em> interests ... </em></h3>
+<hr>
 <ul>
-  <li> interested in software & game development, 
-    <br>UX/UI Design, 2D & 3D digital art, and animation! 
-  <li> expecting to graduate in Fall 2025
-  <li> playing <em>Death Stranding</em>
-  <li> an artist & singer!
-  <li> muốn học tiếng Nhật hahaha
+  <li> web/software/game development </li>
+  <li> computer graphics </li>
+  <li> UX/UI design </li>
+</ul>
+
+<h3><em> about me ... </em></h3>
+<hr>
+<ul>
+  <li> graduating in Fall 2025 (!) - Computer Science B.S., Mathematics Minor
+  <li> computer engineering & electronics hobbyist 
+  <li> (not really) playing <em>Silksong</em> and <em>Death Stranding</em>
+  <li> người Việt; 日本語を勉強する
 </ul> 
 
-<h3><em>works in progress ...</em></h3>
+<h3><em> featured works in progress ... </em></h3>
+<hr>
+<b>academic research</b>
 <ul>
-  <li><em>Camo Chameleon</em> ~ developing a children's social and emotional learning game that uses AI to generate unique and personalized narrative experiences
+  <li> <em> <a href="https://github.com/HAIM-LAB">HAIM Lab</a> (Humans, AI, and Machines) </em> </li>
   <ul>
-    <li>first place in <b>StartUp UNO</b> pitch competition !!! (Nov 2024)</li>
-    <li>a project of the Humans, AI, and Machines (HAIM) Lab <a href="https://github.com/HAIM-LAB"></a></li>
+    <li> <b>Camo Chameleon</b> ~ a children's social and emotional learning game that uses AI to generate unique and personalized narrative experiences </li>
+    <li> first place in <b>StartUp UNO</b> pitch competition (Nov 2024)</li>
+    <li> third author of research paper published in IJCAI 2025 </li>
   </ul>
-  <li><a href="https://github.com/bunnhimaybe/4570_GameDevelopmentI"><em>Game Development I</a></em> ~ a space-themed 3D puzzle platformer
+  <li> <em> <a href="https://github.com/4210-Capstones"> SWAMP Lab </a>(Software Agile Modeling & Prototyping) </em> 
     <ul>
-      <li>published <em>Top Shop</em> (a fashion-themed time management 2D game) on <a href="https://whoopsies.itch.io/top-shop">itch.io</a></li>
-      <li>upcoming research with the Light Lab (Jan 2025)</li>
+      <li>information technology workshops</li>
+      <li>project management for motion-detecting information kiosks using Leap Motion SDK</li>
     </ul>
-  <li><a href="https://github.com/4210-Capstones"><em>Software Engineering I</em></a> ~ designing information technology workshops; developing motion-detecting information kiosks using Leap Motion SDK (class capstone project); project of the Software Agile Modeling & Prototyping (SWAMP) Lab
-  <li>learning Blender, Unity, JavaScript, CSS, and Python
+  <li> <em><a href='https://light.cs.uno.edu/'>LIGHT Lab</a> (Laboratory of Artificial Intelligence, Games, and HCI Techniques)</em> ~ upcoming research </li>
+</ul>
+<b> games </b>
+<ul>
+  <li> <a href="https://whoopsies.itch.io/top-shop"> <em>Top Shop</em> </a> 
+      ~ 2D fashion-themed time management game </li>
+  <li> <a href='https://github.com/Rima-Murad/Gothic-Archives'> <em>Gothic Archives</em> </a> ~ minimalist text-adventure browser game
 </ul>
 
 <h3><em>extracurriculars ...</em></h3>
+<hr>
 <ul>
   <li> International Collegiate Programming Contest (preparing for ICPC 2025)
   <li>Association for Computing Machinery (Secretary)
@@ -42,6 +58,7 @@
 </ul>
 
 <h3 align="center"><em>tech stack ...</em></h3>
+<hr>
 <div style="display: flex; align-items: center; justify-content: center; vertical-align: middle;">
   <p align="center"> &star; <img src="https://skillicons.dev/icons?i=windows,ubuntu,java"> &star; <img src="https://skillicons.dev/icons?i=html,css,js"> &star; <img src="https://skillicons.dev/icons?i=c,cpp,cs"> &star; <br>
     &star; <img src="https://skillicons.dev/icons?i=blender,figma,obsidian"> &star; <img src="https://skillicons.dev/icons?i=ps,pr,ai"> &star;
