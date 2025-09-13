@@ -1,4 +1,5 @@
-<img align="right" top="500" width="300" alt="GIF" src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif">
+<img align="right" top="500" width="250" alt="GIF" src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif?cid=ecf05e47w54h3x63colhuydc5q8wcn1qj5btz9xiw5vx1rng&ep=v1_gifs_search&rid=giphy.gif">
+
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
@@ -8,7 +9,6 @@
 </div>
 
 <h3><em> interests ... </em></h3>
-<hr>
 <ul>
   <li> web/software/game development </li>
   <li> computer graphics </li>
@@ -16,7 +16,6 @@
 </ul>
 
 <h3><em> about me ... </em></h3>
-<hr>
 <ul>
   <li> graduating in Fall 2025 (!) - Computer Science B.S., Mathematics Minor
   <li> computer engineering & electronics hobbyist 
@@ -25,7 +24,6 @@
 </ul> 
 
 <h3><em> featured works in progress ... </em></h3>
-<hr>
 <b>academic research</b>
 <ul>
   <li> <em> <a href="https://github.com/HAIM-LAB">HAIM Lab</a> (Humans, AI, and Machines) </em> </li>
@@ -49,7 +47,6 @@
 </ul>
 
 <h3><em>extracurriculars ...</em></h3>
-<hr>
 <ul>
   <li> International Collegiate Programming Contest (preparing for ICPC 2025)
   <li>Association for Computing Machinery (Secretary)
@@ -58,7 +55,6 @@
 </ul>
 
 <h3 align="center"><em>tech stack ...</em></h3>
-<hr>
 <div style="display: flex; align-items: center; justify-content: center; vertical-align: middle;">
   <p align="center"> &star; <img src="https://skillicons.dev/icons?i=windows,ubuntu,java"> &star; <img src="https://skillicons.dev/icons?i=html,css,js"> &star; <img src="https://skillicons.dev/icons?i=c,cpp,cs"> &star; <br>
     &star; <img src="https://skillicons.dev/icons?i=blender,figma,obsidian"> &star; <img src="https://skillicons.dev/icons?i=ps,pr,ai"> &star;
